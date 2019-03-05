@@ -1,4 +1,4 @@
-# Reference implementation of the Augmented Latent Variable Model
+# Reference implementation of the Behavioural Autoencoder
 ----
 
 ## Installation
