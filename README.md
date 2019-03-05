@@ -3,7 +3,7 @@
 
 ## Installation
 
-This package implements the augmented latent-variable model  (see bioarxiv link). It runs in Python 3 and assumes installation of python 3.6 as well as dependencies specified in requirements.txt. The easiest way to do this is install the anaconda python distribution and then the correct tensorflow version.
+This package implements the behavioural autoencoder  (bioarxiv link). It runs in Python 3 and assumes installation of python 3.6 as well as dependencies specified in requirements.txt. The easiest way to do this is install the anaconda python distribution and then the correct tensorflow version.
 
 
 To install, download the package and, in terminal, 'cd' to the the relevant folder. We recommend running in a virtual environment. The easiest way to do this is install anaconda
